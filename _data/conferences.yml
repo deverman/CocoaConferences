@@ -25,6 +25,33 @@
 #
 ##########################
 
+- name: Appdevcon
+  link: https://appdevcon.nl
+  start: 2026-03-10
+  end: 2026-03-13
+  location: 🇳🇱 Amsterdam, The Netherlands
+  cocoa-only: false
+  
+- name: NSSpain XIII
+  link: https://2025.nsspain.com
+  start: 2025-09-18
+  end: 2025-09-19
+  location: 🇪🇸 Logroño, Spain
+  cocoa-only: true
+  cfp:
+    link: https://2025.nsspain.com/#speakers
+    deadline: 2025-06-30
+
+- name: /dev/world 2025
+  link: https://devworld.au
+  start: 2025-09-04
+  end: 2025-09-05
+  location: 🇦🇺 Melbourne, Australia
+  cocoa-only: true
+  cfp:
+    link: https://devworld.au/cfp/
+    deadline: 2025-07-07
+
 - name: Swift Island
   link: https://swiftisland.nl
   start: 2025-09-02
@@ -83,6 +110,9 @@
   end: 2025-11-14
   location: 🇳🇱 Amsterdam, The Netherlands
   cocoa-only: true
+  cfp:
+    link: https://www.papercall.io/do-ios-2025
+    deadline: 2025-07-31
 
 - name: mDevCamp
   link: https://mdevcamp.eu/
@@ -128,6 +158,9 @@
   end: 2025-10-07
   location: 🇫🇷 Paris, France
   cocoa-only: true
+  cfp:
+    link: https://sessionize.com/swift-connection-2025/
+    deadline: 2025-06-22
 
 - name: Pragma Conference 2025
   link: https://pragmaconference.com/
